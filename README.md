@@ -34,7 +34,7 @@
 </ul>
 
 <h2 id="resultados">Resultados</h2>
-
+<img src="dados.png" alt="Árvore de Decisão" style="max-width: 100%;">
 <p>Os resultados obtidos foram:</p>
 
 <ul>
